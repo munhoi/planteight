@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.unity.2d.animation": "7.0.5",
     "com.unity.collab-proxy": "1.15.12",
     "com.unity.feature.characters-animation": "1.0.0",
     "com.unity.feature.cinematic": "1.0.0",
