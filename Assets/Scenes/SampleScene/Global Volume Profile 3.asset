@@ -93,10 +93,10 @@ MonoBehaviour:
   active: 1
   temperature:
     m_OverrideState: 1
-    m_Value: -3.1
+    m_Value: -17.8
   tint:
-    m_OverrideState: 0
-    m_Value: 0
+    m_OverrideState: 1
+    m_Value: 7.5
 --- !u!114 &-1080020548825730004
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -121,10 +121,10 @@ MonoBehaviour:
     m_Value: 1
   fixedExposure:
     m_OverrideState: 1
-    m_Value: 10.67563
+    m_Value: 10.558534
   compensation:
     m_OverrideState: 1
-    m_Value: 0.25
+    m_Value: 0.8
   limitMin:
     m_OverrideState: 1
     m_Value: -0.95870185
@@ -294,8 +294,8 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: {r: 1, g: 1, b: 1, a: 1}
   maxFogDistance:
-    m_OverrideState: 0
-    m_Value: 56.8
+    m_OverrideState: 1
+    m_Value: 500
   mipFogMaxMip:
     m_OverrideState: 0
     m_Value: 0.5
@@ -310,7 +310,7 @@ MonoBehaviour:
     m_Value: 0
   maximumHeight:
     m_OverrideState: 1
-    m_Value: 84.6
+    m_Value: 165.5
   meanFreePath:
     m_OverrideState: 1
     m_Value: 31.3
@@ -319,13 +319,13 @@ MonoBehaviour:
     m_Value: 1
   albedo:
     m_OverrideState: 1
-    m_Value: {r: 0.5188679, g: 0.5188679, b: 0.5188679, a: 1}
+    m_Value: {r: 0.3252047, g: 0.43320116, b: 0.509434, a: 0.8862745}
   globalLightProbeDimmer:
     m_OverrideState: 1
-    m_Value: 0.834
+    m_Value: 0.789
   depthExtent:
-    m_OverrideState: 0
-    m_Value: 19.1
+    m_OverrideState: 1
+    m_Value: 66.09
   denoisingMode:
     m_OverrideState: 1
     m_Value: 3
