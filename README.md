@@ -6,3 +6,7 @@
 //UNITY gaeshakit...... project doesn't open normally
 //objects are all in the file but does not open in Scene
 //I'm rotten POTATO..... Didn't open Scene file
+
+//[05-02]
+//UNITY is SiHt
+//wait... I'm Shitted Rotten potato,, yEah tHat's mE
