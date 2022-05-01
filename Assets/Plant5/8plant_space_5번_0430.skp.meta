@@ -3,7 +3,102 @@ guid: a1b3ac92e5a69b24cba7fb3ef595e7f5
 SketchUpImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mark_Jeans_Blue
+    second: {fileID: 2100000, guid: 46934238d47731845869e24443873ca2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mark_Shirt_DarkGray
+    second: {fileID: 2100000, guid: 8dfd8b346d5357041b13a01b01f9eeb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _1
+    second: {fileID: 2100000, guid: 9e0522d0c9fdce44db39c3a851aba2f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _10
+    second: {fileID: 2100000, guid: 0c2cca9c13d32424880c970f944d651e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _11
+    second: {fileID: 2100000, guid: 3e10b4af03d390140943075e14a915c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _12
+    second: {fileID: 2100000, guid: 5d1f4a5e0546c6d42955a9200f7754bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _14
+    second: {fileID: 2100000, guid: 3e5ea2f4f63beab4798a114b84a4c396, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _15
+    second: {fileID: 2100000, guid: c4d02bf2f1581d54ab68db78f4530eff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _16
+    second: {fileID: 2100000, guid: a4424aa051337464a8801383678f0359, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _2
+    second: {fileID: 2100000, guid: 93b5b4c388c212d4994e58f32fda9eaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _6
+    second: {fileID: 2100000, guid: b0976c863c9d7674790a92e33c42cd73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _7
+    second: {fileID: 2100000, guid: 7290e13c9f46c10498b42e57c46433d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _9
+    second: {fileID: 2100000, guid: 55fae06f77ba80147ab7bbbd6c5ab0c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: b6f1d6fc61863d34e9cb25592952f11b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Concrete wall various-021
+    second: {fileID: 2800000, guid: b960ae0895adff14bb11329222483599, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Concrete-013
+    second: {fileID: 2800000, guid: 71bd214aab0ed3345ae92fa92d08cd5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Concrete-014
+    second: {fileID: 2800000, guid: 326c3f4eb58088f4497dd558766b595b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wall irregularly covered with cement
+    second: {fileID: 2800000, guid: cbd123eba97bed542bd8d9c0dffc7645, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wall irregularly covered with cement_tint0x9B9B99FF
+    second: {fileID: 2800000, guid: ab3c8eb514f4b904dba40be458f280b2, type: 3}
   materials:
     materialImportMode: 2
     materialName: 2
