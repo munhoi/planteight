@@ -19293,7 +19293,7 @@ GameObject:
   - component: {fileID: 610085541}
   - component: {fileID: 610085540}
   m_Layer: 0
-  m_Name: Terrain (2)
+  m_Name: Terrain (2)_5plant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25358,7 +25358,7 @@ GameObject:
   - component: {fileID: 867333134}
   - component: {fileID: 867333133}
   m_Layer: 0
-  m_Name: Terrain (1)
+  m_Name: Terrain (1)_ Main
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
