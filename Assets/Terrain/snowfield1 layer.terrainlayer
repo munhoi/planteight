@@ -8,15 +8,15 @@ TerrainLayer:
   m_PrefabAsset: {fileID: 0}
   m_Name: snowfield1 layer
   m_DiffuseTexture: {fileID: 2800000, guid: 14cbb20e38223874691ba15465a1fec4, type: 3}
-  m_NormalMapTexture: {fileID: 0}
-  m_MaskMapTexture: {fileID: 0}
-  m_TileSize: {x: 10, y: 10}
+  m_NormalMapTexture: {fileID: 2800000, guid: 0938b5108a5efec429625749ff0c9587, type: 3}
+  m_MaskMapTexture: {fileID: 2800000, guid: b60fbfcd40d09a4458851d0ed8247b26, type: 3}
+  m_TileSize: {x: 5, y: 5}
   m_TileOffset: {x: 0, y: 0}
-  m_Specular: {r: 0, g: 0, b: 0, a: 0}
+  m_Specular: {r: 0.76470596, g: 0.69803923, b: 0.69803923, a: 0}
   m_Metallic: 0
-  m_Smoothness: 0
-  m_NormalScale: 1
-  m_DiffuseRemapMin: {x: 0, y: 0, z: 0, w: 0}
-  m_DiffuseRemapMax: {x: 1, y: 1, z: 1, w: 1}
+  m_Smoothness: 0.329
+  m_NormalScale: 2.78
+  m_DiffuseRemapMin: {x: 0, y: 0, z: 0, w: 1}
+  m_DiffuseRemapMax: {x: 0.44304025, y: 0.5041734, z: 0.7169812, w: 1}
   m_MaskMapRemapMin: {x: 0, y: 0, z: 0, w: 0}
-  m_MaskMapRemapMax: {x: 1, y: 1, z: 1, w: 1}
+  m_MaskMapRemapMax: {x: 0.33439708, y: 1, z: 1, w: 0.2233872}
