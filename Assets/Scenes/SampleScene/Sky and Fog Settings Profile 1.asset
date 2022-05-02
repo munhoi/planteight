@@ -353,14 +353,14 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: {r: 0.9308176, g: 0.9308176, b: 1, a: 1}
   airMaximumAltitude:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 127.6
   aerosolDensity:
-    m_OverrideState: 0
-    m_Value: 0.11
+    m_OverrideState: 1
+    m_Value: 0.246
   aerosolTint:
-    m_OverrideState: 0
-    m_Value: {r: 0.4811321, g: 0.47534767, b: 0.4750801, a: 1}
+    m_OverrideState: 1
+    m_Value: {r: 0.27450982, g: 0.22131062, b: 0.21960784, a: 1}
   aerosolMaximumAltitude:
     m_OverrideState: 0
     m_Value: 8289.296
@@ -371,7 +371,7 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 3
   groundTint:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {r: 0.6886792, g: 0.5635342, b: 0.47861037, a: 1}
   groundColorTexture:
     m_OverrideState: 0
