@@ -1,14 +1,18 @@
 fileFormatVersion: 2
-guid: ff9bcd9403eccb047bb01a208aafcf4a
+guid: 91e98467be917a34e86c55bd84c43788
 ModelImporter:
   serializedVersion: 21202
-  internalIDToNameTable: []
-  externalObjects:
+  internalIDToNameTable:
   - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: defaultMat
-    second: {fileID: 2100000, guid: cda2c5115e3bfb748911e6d9e36f4a2d, type: 2}
+      74: -9030399341505046043
+    second: Cube.006|Camera.003Action.002
+  - first:
+      74: 2941014778033502821
+    second: Cube.006|Camera.004Action
+  - first:
+      74: -4081537619849912291
+    second: Cube.006|Cube.006Action
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
